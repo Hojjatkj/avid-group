@@ -1,0 +1,10 @@
+{
+  "description": "Create and manage personalized projects effortlessly with intuitive tools designed for teams and individuals seeking streamlined collaboration and productivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
